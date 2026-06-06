@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Segment,Category,Product_Name,City,Sales,Profit,Quantity
+1,2026-01-25,North,Home Office,Furniture,Bookcase,Sandersfort,2202.26,5.89,4
+2,2026-02-16,East,Home Office,Technology,Printer,Joshuafort,4475.75,930.61,7
+3,2026-04-10,East,Home Office,Technology,Mouse,New Jill,4275.53,1131.26,4
+4,2025-03-07,West,Home Office,Office Supplies,Storage Box,Andreabury,1697.86,257.47,2
+5,2025-01-24,East,Home Office,Furniture,Chair,East Matthewmouth,1599.84,-70.34,1
+6,2025-02-12,East,Corporate,Furniture,Desk,New Angela,4984.12,-193.75,10
+7,2026-05-28,West,Home Office,Furniture,Sofa,South Jonathan,3519.23,-22.21,4
+8,2026-01-10,South,Consumer,Office Supplies,Paper,Bradleyfurt,2260.8,306.39,7
+9,2025-08-28,West,Home Office,Furniture,Sofa,New Desiree,2733.41,1.31,6
+10,2025-10-02,North,Home Office,Furniture,Desk,Lake Zachary,1091.29,338.04,1
+11,2024-06-11,West,Consumer,Office Supplies,Storage Box,South Charlesville,3265.58,970.32,5
+12,2026-05-15,South,Home Office,Office Supplies,Paper,New Amyside,471.3,84.02,4
+13,2025-08-13,South,Consumer,Technology,Printer,East Brian,3741.72,562.07,2
+14,2025-01-16,East,Consumer,Technology,Laptop,Port Ashleyview,3771.21,1245.43,4
+15,2025-04-13,East,Consumer,Office Supplies,Storage Box,Lake Steven,4686.54,93.65,9
+16,2024-06-10,East,Consumer,Furniture,Sofa,Reevesfurt,494.68,24.55,9
+17,2024-06-09,West,Consumer,Furniture,Bookcase,Thomasside,3833.58,933.6,8
+18,2026-03-16,East,Corporate,Furniture,Sofa,Port James,2707.69,552.31,5
+19,2024-09-10,East,Consumer,Technology,Monitor,East Michaelland,3005.98,-223.79,4
+20,2025-10-20,East,Corporate,Furniture,Sofa,Port Lisa,919.58,-70.27,4
+21,2025-01-09,East,Corporate,Technology,Keyboard,East Christopher,1118.04,233.36,2
+22,2025-03-31,South,Consumer,Technology,Mouse,East Emilyburgh,2015.92,485.37,1
+23,2025-06-03,East,Corporate,Furniture,Chair,Carrieberg,3519.67,618.99,3
+24,2024-06-05,East,Corporate,Technology,Mouse,South Katherinemouth,1071.74,-74.99,8
+25,2025-09-30,South,Corporate,Office Supplies,Pen,Zacharychester,1510.59,-76.58,1
+26,2025-01-12,East,Home Office,Furniture,Chair,Lake Daniellehaven,3096.26,-289.21,5
+27,2024-08-07,East,Corporate,Furniture,Sofa,Jackieville,1781.66,230.21,7
+28,2025-02-02,South,Corporate,Office Supplies,Binder,North Peggy,4338.11,590.78,8
+29,2024-12-03,South,Consumer,Furniture,Bookcase,West Kennethhaven,4695.06,398.83,6
+30,2026-05-03,South,Home Office,Furniture,Table,East Nicoleville,3100.6,643.29,2
+31,2025-12-11,North,Corporate,Technology,Keyboard,Lauraport,3770.47,633.05,9
+32,2026-03-22,South,Consumer,Office Supplies,Envelope,Craigfort,2156.25,208.78,6
+33,2024-10-26,North,Corporate,Furniture,Bookcase,New Alanbury,2009.98,-101.52,3
+34,2024-09-13,North,Corporate,Office Supplies,Binder,Joshuashire,3694.59,1015.65,7
+35,2025-03-31,West,Home Office,Furniture,Sofa,New William,4845.65,494.09,6
+36,2025-10-30,North,Home Office,Office Supplies,Envelope,New Ashley,2862.92,-91.13,2
+37,2025-12-23,South,Corporate,Furniture,Chair,Lake Michael,4535.36,1305.26,9
+38,2025-09-18,North,Corporate,Furniture,Bookcase,Port Rita,3494.9,695.82,2
+39,2025-03-01,East,Corporate,Office Supplies,Envelope,Jessicaton,1547.14,11.71,2
+40,2025-11-06,North,Corporate,Furniture,Bookcase,Martinport,4058.46,623.24,2
+41,2024-08-07,South,Consumer,Furniture,Sofa,North Samuel,1195.17,73.1,3
+42,2024-06-14,East,Home Office,Technology,Mouse,Jessicashire,3145.25,583.45,2
+43,2025-04-07,East,Home Office,Office Supplies,Paper,Patriciaberg,1419.69,141.25,6
+44,2026-05-04,South,Home Office,Office Supplies,Paper,Kingview,180.15,62.71,3
+45,2026-01-07,South,Corporate,Office Supplies,Envelope,Lanceton,4399.39,971.22,8
+46,2025-09-07,South,Consumer,Furniture,Desk,Jacksonstad,1012.89,129.15,6
+47,2025-07-18,North,Home Office,Office Supplies,Binder,Lake Shane,3118.96,891.03,9
+48,2025-08-30,South,Consumer,Furniture,Sofa,Saraville,853.57,47.55,4
+49,2026-01-14,West,Home Office,Technology,Printer,Riveraton,2884.86,149.7,10
+50,2025-03-13,West,Home Office,Office Supplies,Binder,Edwardchester,4326.31,-69.56,1
+51,2026-02-02,South,Consumer,Furniture,Sofa,Josephton,4989.3,102.88,10
+52,2024-06-24,East,Consumer,Office Supplies,Paper,West Hannah,3357.22,859.68,4
+53,2025-02-24,North,Home Office,Technology,Mouse,East Carolynland,1357.06,442.63,8
+54,2024-06-12,North,Corporate,Furniture,Chair,East David,4140.89,259.96,5
+55,2026-04-19,South,Consumer,Office Supplies,Binder,Port Benjaminmouth,2831.41,76.62,8
+56,2025-02-03,West,Consumer,Technology,Printer,East Brenda,1185.13,101.62,1
+57,2025-12-13,South,Corporate,Furniture,Table,Ronaldport,1213.75,229.06,8
+58,2025-10-02,West,Corporate,Office Supplies,Binder,Cobbstad,3816.77,639.06,8
+59,2025-09-28,West,Consumer,Furniture,Desk,West Brittany,686.69,12.01,10
+60,2024-08-02,South,Home Office,Technology,Monitor,West Michael,3019.81,517.43,10
+61,2025-08-19,North,Consumer,Technology,Monitor,Debbieburgh,4730.03,514.21,3
+62,2026-05-14,East,Consumer,Furniture,Chair,South Richard,2291.08,-105.09,7
+63,2025-10-31,West,Corporate,Technology,Printer,New Stevenchester,494.13,156.41,4
+64,2024-07-18,South,Corporate,Technology,Mouse,Rodgersstad,3226.72,1055.58,9
+65,2024-12-01,South,Home Office,Office Supplies,Envelope,Lake Daniel,3039.65,451.53,7
+66,2026-02-07,West,Home Office,Office Supplies,Storage Box,North Christopherfurt,4685.51,1168.12,7
+67,2025-03-15,East,Consumer,Furniture,Bookcase,Moonborough,3128.38,191.64,7
+68,2024-11-03,South,Home Office,Office Supplies,Storage Box,Port Alan,1919.79,185.9,6
+69,2025-04-06,North,Consumer,Technology,Mouse,Blairmouth,3126.3,63.99,7
+70,2025-01-17,North,Corporate,Furniture,Bookcase,West Sherrytown,937.88,198.14,1
+71,2026-04-22,West,Home Office,Furniture,Desk,New Aprilside,4041.23,444.98,9
+72,2024-12-11,South,Consumer,Furniture,Sofa,New Stephen,1374.01,480.17,10
+73,2025-06-06,North,Home Office,Furniture,Desk,New Renee,2463.51,813.51,5
+74,2024-10-03,East,Corporate,Technology,Mouse,Matthewberg,2828.94,283.91,7
+75,2025-10-28,West,Consumer,Furniture,Table,South Blake,1809.25,-66.71,6
+76,2024-08-25,South,Consumer,Technology,Printer,Allisonshire,310.59,12.59,2
+77,2025-01-12,East,Home Office,Technology,Printer,Port Courtney,1106.21,291.89,9
+78,2024-10-23,East,Home Office,Office Supplies,Binder,New Amy,834.6,251.61,3
+79,2024-08-14,North,Consumer,Office Supplies,Envelope,Lake Jenniferhaven,2070.8,138.36,6
+80,2026-05-18,East,Home Office,Furniture,Table,Port John,478.14,58.95,8
+81,2026-01-06,West,Home Office,Technology,Monitor,Millerberg,4504.24,835.47,2
+82,2025-04-23,South,Consumer,Technology,Laptop,Delgadoton,1665.92,325.77,1
+83,2025-07-13,West,Corporate,Furniture,Sofa,Burtonton,2378.25,187.75,6
+84,2026-04-20,South,Home Office,Furniture,Sofa,Kirkburgh,798.67,197.45,2
+85,2024-06-10,South,Home Office,Office Supplies,Envelope,Edwardborough,1451.15,452.26,9
+86,2026-05-27,North,Home Office,Office Supplies,Binder,Baileyside,3101.21,592.86,2
+87,2024-06-28,South,Consumer,Furniture,Sofa,Lake Samanthastad,795.9,216.63,7
+88,2025-01-03,East,Consumer,Furniture,Sofa,Lake Alexis,4223.08,609.96,9
+89,2024-10-27,South,Consumer,Office Supplies,Pen,Port William,3660.17,-160.33,5
+90,2025-11-07,North,Corporate,Office Supplies,Pen,Jennifermouth,3472.31,970.6,2
+91,2024-07-01,North,Corporate,Technology,Laptop,Hillberg,1983.42,385.43,5
+92,2024-10-25,North,Corporate,Furniture,Desk,Lake Christopherton,3717.75,31.93,7
+93,2026-02-26,West,Corporate,Furniture,Desk,Meghantown,974.03,319.55,5
+94,2025-06-11,North,Consumer,Technology,Printer,Justinmouth,3842.2,1218.4,2
+95,2026-05-13,West,Consumer,Office Supplies,Binder,Pamelachester,978.1,177.96,6
+96,2025-02-26,North,Home Office,Office Supplies,Envelope,Nicholasside,3429.87,115.97,4
+97,2025-01-16,North,Home Office,Technology,Monitor,Jackchester,3446.56,290.71,4
+98,2024-06-16,West,Corporate,Technology,Printer,East Susan,282.62,29.24,2
+99,2024-08-12,West,Home Office,Office Supplies,Pen,Port Chadfurt,3649.27,1242.78,4
+100,2025-12-03,North,Home Office,Furniture,Bookcase,East Edwardton,4703.22,1238.86,3
+101,2025-05-06,North,Consumer,Technology,Keyboard,Watkinsborough,1836.16,71.97,3
+102,2025-10-20,North,Consumer,Furniture,Sofa,West Katherineberg,4815.49,586.76,8
+103,2024-06-12,North,Corporate,Technology,Monitor,West Donna,4297.21,33.64,9
+104,2025-08-29,East,Consumer,Office Supplies,Binder,Port Amberhaven,2207.53,389.94,9
+105,2025-11-17,North,Home Office,Furniture,Chair,Loganhaven,1156.93,-21.74,10
+106,2025-05-26,North,Consumer,Furniture,Desk,New Mark,2997.44,97.54,10
+107,2024-11-15,West,Corporate,Technology,Keyboard,New Jason,218.22,-4.79,5
+108,2024-07-12,North,Home Office,Furniture,Bookcase,Erikville,3078.31,-260.17,9
+109,2025-06-29,East,Corporate,Office Supplies,Binder,Leonardville,2338.0,213.64,5
+110,2025-03-27,West,Home Office,Office Supplies,Pen,Port Makayla,3409.27,334.71,5
+111,2024-06-15,North,Corporate,Office Supplies,Paper,Watkinsport,2000.89,571.96,1
+112,2025-12-19,South,Home Office,Furniture,Sofa,Williamburgh,4595.74,418.09,2
+113,2025-12-14,East,Corporate,Office Supplies,Envelope,North Tina,2947.49,6.51,3
+114,2024-09-08,North,Consumer,Furniture,Chair,Port Isaiahchester,2619.57,699.41,4
+115,2025-05-12,West,Consumer,Office Supplies,Binder,Port Jennifer,1060.16,270.98,3
+116,2024-10-26,West,Consumer,Office Supplies,Storage Box,Kristinside,2311.6,767.33,6
+117,2025-09-13,East,Consumer,Technology,Mouse,West Johnside,4066.58,171.26,9
+118,2025-09-27,East,Corporate,Furniture,Desk,Lake Tylerbury,1491.49,399.71,9
+119,2024-07-11,South,Consumer,Technology,Laptop,South Devon,3174.78,1041.23,10
+120,2026-05-04,West,Corporate,Technology,Printer,Shaneland,1335.82,-81.17,7
+121,2026-01-23,West,Consumer,Office Supplies,Envelope,Josephview,4907.89,660.41,4
+122,2025-09-18,South,Home Office,Technology,Laptop,West Sarah,2526.53,-198.7,5
+123,2026-04-10,West,Consumer,Technology,Keyboard,Port Christopherstad,503.77,67.82,1
+124,2026-02-03,North,Corporate,Furniture,Chair,Knoxview,4852.93,-466.35,1
+125,2025-02-08,North,Consumer,Office Supplies,Paper,West Kristinaville,1937.01,-40.98,3
+126,2024-11-28,South,Corporate,Office Supplies,Envelope,North Scottside,1681.05,285.19,5
+127,2024-06-20,South,Corporate,Technology,Mouse,South Manuel,3305.56,-111.33,7
+128,2026-02-25,West,Corporate,Technology,Printer,North Manuel,1047.29,144.2,9
+129,2026-03-31,West,Corporate,Furniture,Sofa,Duncanchester,3371.41,-242.83,2
+130,2025-12-13,East,Corporate,Technology,Laptop,Port Christianview,3749.94,-291.32,9
+131,2024-10-05,North,Home Office,Furniture,Bookcase,North Patricktown,4829.65,-173.82,2
+132,2025-09-15,South,Home Office,Office Supplies,Binder,Lake Tina,3359.04,1015.7,3
+133,2024-09-12,East,Corporate,Technology,Keyboard,Wattsfort,171.43,3.99,2
+134,2025-05-30,North,Home Office,Office Supplies,Storage Box,East Mark,4712.43,443.72,8
+135,2024-08-15,South,Home Office,Furniture,Desk,Hughestown,728.89,71.89,6
+136,2026-02-12,West,Corporate,Office Supplies,Binder,Port Jacobland,4419.99,694.44,6
+137,2025-05-24,East,Home Office,Furniture,Bookcase,Matthewside,1347.61,428.01,6
+138,2025-11-12,North,Corporate,Technology,Printer,Ashleyberg,1429.56,445.85,3
+139,2026-04-06,East,Consumer,Furniture,Sofa,Lake Michaelberg,1251.8,395.21,1
+140,2025-04-20,West,Consumer,Furniture,Sofa,Duranstad,4274.81,695.88,9
+141,2024-12-18,North,Home Office,Office Supplies,Pen,Powerston,1579.03,-69.19,9
+142,2025-10-28,East,Home Office,Furniture,Desk,West Angela,178.51,-5.75,9
+143,2025-04-19,East,Consumer,Office Supplies,Paper,Castanedaburgh,1541.39,521.5,8
+144,2026-02-06,West,Home Office,Technology,Monitor,Thomasmouth,4009.37,600.8,7
+145,2025-07-14,West,Consumer,Furniture,Sofa,Charlesport,4765.17,317.13,5
+146,2025-11-08,West,Home Office,Technology,Mouse,Morganburgh,3297.91,-186.54,3
+147,2025-06-20,South,Consumer,Technology,Mouse,Ramireztown,579.58,135.99,6
+148,2026-01-10,East,Corporate,Office Supplies,Envelope,Jessicachester,1964.06,-113.1,9
+149,2026-05-03,West,Corporate,Technology,Monitor,South Robertmouth,3025.57,701.2,4
+150,2025-08-02,East,Home Office,Office Supplies,Binder,New Albert,1959.04,-89.4,2
+151,2025-09-01,North,Corporate,Furniture,Chair,Ramseyport,3284.76,203.23,4
+152,2026-05-11,South,Consumer,Furniture,Bookcase,Flynnfurt,670.84,132.96,3
+153,2024-06-08,West,Corporate,Office Supplies,Binder,East Duanestad,4190.72,550.77,2
+154,2024-06-06,North,Consumer,Technology,Printer,Vanessaborough,4895.24,-193.03,7
+155,2025-06-11,East,Consumer,Office Supplies,Paper,Port Cheryl,3326.89,861.46,4
+156,2025-11-22,West,Corporate,Furniture,Sofa,East Linda,1183.84,379.41,8
+157,2025-01-09,West,Consumer,Office Supplies,Binder,Alexanderland,785.51,6.71,2
+158,2025-06-03,South,Home Office,Furniture,Bookcase,West Terri,4369.75,1201.88,10
+159,2025-11-30,North,Corporate,Technology,Laptop,Shawtown,1893.32,304.22,4
+160,2026-04-01,North,Corporate,Furniture,Table,Samanthachester,1873.04,218.67,9
+161,2025-12-12,North,Corporate,Furniture,Chair,East Sarashire,4445.0,1129.15,4
+162,2026-03-22,West,Consumer,Technology,Mouse,Port Kenneth,1145.72,121.84,5
+163,2025-12-02,West,Consumer,Furniture,Table,Robertchester,293.15,11.22,2
+164,2024-08-12,East,Consumer,Office Supplies,Binder,North Chadstad,2450.21,-221.12,5
+165,2025-05-25,East,Home Office,Office Supplies,Envelope,Hartmanborough,3310.27,526.79,3
+166,2024-08-14,West,Home Office,Office Supplies,Envelope,North Davidmouth,2965.29,-112.49,5
+167,2026-05-13,East,Home Office,Office Supplies,Pen,Port Alexandermouth,2309.96,695.49,8
+168,2024-08-01,South,Home Office,Technology,Laptop,Gonzaleztown,1222.05,295.76,7
+169,2025-06-22,West,Corporate,Office Supplies,Pen,West Christopher,2711.21,289.28,1
+170,2025-07-11,South,Home Office,Furniture,Desk,Johnstad,853.88,-21.1,9
+171,2026-01-17,South,Consumer,Furniture,Table,Wheelerport,2069.78,621.14,7
+172,2025-11-11,West,Home Office,Furniture,Table,Andrewchester,4575.45,851.42,9
+173,2025-10-24,West,Home Office,Office Supplies,Paper,Port Tiffany,470.16,118.19,10
+174,2025-02-02,South,Consumer,Technology,Keyboard,Port Kathleenside,1679.04,63.96,5
+175,2026-03-10,South,Consumer,Office Supplies,Paper,Murrayberg,1055.7,300.67,5
+176,2026-01-14,South,Consumer,Technology,Printer,Port Crystal,4210.99,717.93,10
+177,2025-08-18,East,Home Office,Furniture,Chair,West Bryan,892.18,230.14,9
+178,2024-10-01,South,Home Office,Office Supplies,Envelope,New Alexisshire,2019.73,205.66,2
+179,2025-01-13,South,Home Office,Technology,Laptop,Cohenmouth,1292.13,159.75,9
+180,2025-11-12,East,Corporate,Technology,Printer,East Williamshire,2419.72,776.27,2
+181,2025-10-13,East,Consumer,Furniture,Table,Adriennetown,2072.33,310.65,4
+182,2025-12-26,South,Home Office,Office Supplies,Pen,Bennettbury,1024.69,341.61,5
+183,2025-05-29,North,Home Office,Furniture,Desk,East Taylor,4801.13,-337.72,8
+184,2024-12-30,East,Corporate,Technology,Mouse,Raymondland,4218.95,26.56,1
+185,2025-06-14,South,Corporate,Furniture,Table,East Allison,561.09,188.13,9
+186,2025-10-23,West,Corporate,Furniture,Chair,Wendyton,2680.53,844.01,6
+187,2025-06-15,West,Consumer,Furniture,Desk,New Timothyberg,485.82,101.57,3
+188,2025-08-24,East,Corporate,Office Supplies,Pen,Amandachester,1329.67,453.11,6
+189,2025-04-23,South,Consumer,Furniture,Chair,West Davidland,843.96,35.34,6
+190,2025-07-01,West,Corporate,Technology,Monitor,Kylefurt,4293.42,150.49,3
+191,2026-05-17,West,Consumer,Technology,Keyboard,Kellystad,3093.6,539.19,4
+192,2025-08-16,West,Corporate,Furniture,Sofa,South Sheilaburgh,4528.73,-242.15,4
+193,2025-06-05,West,Home Office,Office Supplies,Envelope,East Brian,2555.01,-88.84,10
+194,2024-07-09,South,Consumer,Technology,Printer,Port Rhondaside,184.05,12.36,2
+195,2025-10-20,South,Home Office,Office Supplies,Envelope,Stokesberg,4694.43,-137.04,9
+196,2025-07-29,South,Consumer,Technology,Laptop,Jonathanhaven,183.93,41.76,8
+197,2025-11-26,West,Home Office,Office Supplies,Pen,Mezafurt,113.3,14.29,2
+198,2026-05-19,East,Home Office,Technology,Laptop,Michaelborough,390.99,117.9,7
+199,2026-01-23,North,Consumer,Furniture,Chair,Johnsonbury,4813.22,482.35,9
+200,2026-01-14,East,Home Office,Technology,Printer,Curtisshire,1481.71,416.28,8
+201,2024-12-01,West,Home Office,Office Supplies,Pen,New Eric,2931.66,641.35,6
+202,2026-01-15,South,Consumer,Technology,Keyboard,New Gabrieltown,2887.69,-228.2,5
+203,2024-09-01,South,Home Office,Furniture,Table,Johnchester,3654.58,1138.38,3
+204,2025-06-05,East,Corporate,Technology,Laptop,Krystalmouth,1522.44,280.51,3
+205,2024-10-01,West,Home Office,Furniture,Sofa,Leonardshire,1453.67,328.06,1
+206,2025-11-06,South,Corporate,Technology,Laptop,Tamaraland,1999.62,-138.25,4
+207,2025-10-26,North,Corporate,Furniture,Table,Port Holly,1085.13,216.49,4
+208,2026-03-31,North,Home Office,Technology,Monitor,South Maryburgh,2730.45,718.13,5
+209,2026-06-05,East,Corporate,Office Supplies,Binder,Gallegostown,1523.8,251.23,1
+210,2025-12-14,North,Corporate,Technology,Printer,Geraldmouth,1810.17,520.04,8
+211,2026-05-31,South,Consumer,Technology,Mouse,Grahamstad,1168.24,124.46,6
+212,2025-06-23,East,Home Office,Technology,Laptop,Greenport,4750.61,957.29,1
+213,2025-03-21,East,Home Office,Furniture,Bookcase,Carolynfurt,3857.56,-344.22,2
+214,2025-10-22,North,Consumer,Technology,Mouse,Frenchbury,2757.47,76.27,8
+215,2025-05-16,South,Home Office,Office Supplies,Paper,Brooksmouth,1954.61,-186.38,9
+216,2024-06-14,West,Home Office,Furniture,Table,Cruzfort,3685.0,1175.9,8
+217,2024-12-25,North,Home Office,Office Supplies,Storage Box,East Timothymouth,3892.45,249.52,3
+218,2025-08-18,South,Consumer,Technology,Laptop,Port Nathanielland,1851.11,-67.86,5
+219,2026-01-04,North,Corporate,Office Supplies,Envelope,Port Nicoleside,1714.46,23.88,2
+220,2025-07-03,West,Corporate,Furniture,Chair,Lake Jessicaberg,3257.02,293.23,5
+221,2025-09-21,South,Home Office,Office Supplies,Pen,East Shannon,3445.21,1121.95,2
+222,2024-07-25,South,Home Office,Furniture,Table,Port Robert,3376.58,635.07,5
+223,2026-04-20,North,Home Office,Furniture,Bookcase,West Phyllisport,2171.76,-126.21,10
+224,2025-08-27,North,Home Office,Office Supplies,Pen,Kathleenport,4648.48,328.01,8
+225,2025-03-27,East,Corporate,Office Supplies,Paper,Smithbury,739.68,-58.45,9
+226,2024-09-17,East,Corporate,Office Supplies,Storage Box,Lake Stephen,2141.65,228.4,7
+227,2025-01-10,North,Corporate,Office Supplies,Paper,New Davidfurt,2539.36,417.6,3
+228,2024-12-29,South,Home Office,Furniture,Table,Justinmouth,1600.86,357.26,3
+229,2024-11-20,East,Consumer,Office Supplies,Paper,Greerside,864.68,224.33,8
+230,2024-06-19,East,Home Office,Office Supplies,Storage Box,Port Wendy,2302.25,474.52,6
+231,2024-12-05,North,Home Office,Furniture,Table,Lyonsville,1882.38,117.28,4
+232,2025-12-28,West,Corporate,Technology,Laptop,Ortegashire,2505.38,349.67,9
+233,2024-10-13,North,Home Office,Office Supplies,Storage Box,Jessestad,956.93,56.84,10
+234,2024-09-24,South,Home Office,Office Supplies,Storage Box,New Sherryton,853.14,274.24,2
+235,2024-10-02,East,Corporate,Furniture,Desk,West Jonathanbury,3515.26,799.97,5
+236,2026-05-11,West,Consumer,Furniture,Sofa,Charleston,1466.09,307.97,9
+237,2026-04-15,South,Consumer,Furniture,Bookcase,West Matthewland,933.52,138.35,1
+238,2026-04-06,South,Home Office,Office Supplies,Envelope,Keithstad,4787.41,-215.23,4
+239,2025-11-01,East,Consumer,Technology,Keyboard,Jamesborough,2495.8,533.29,1
+240,2024-11-17,North,Corporate,Technology,Printer,Cooperfurt,208.86,15.97,8
+241,2026-01-18,West,Consumer,Office Supplies,Storage Box,Courtneyview,618.49,-5.39,2
+242,2025-04-20,West,Home Office,Office Supplies,Pen,Bentleymouth,1203.01,321.69,2
+243,2025-06-14,South,Consumer,Technology,Laptop,South Jenniferburgh,297.43,33.68,2
+244,2024-08-01,East,Corporate,Office Supplies,Binder,Katherineland,138.72,-3.84,9
+245,2026-02-10,North,Home Office,Furniture,Sofa,Conwayland,723.79,27.85,1
+246,2025-11-17,East,Home Office,Furniture,Bookcase,Hinesside,3487.02,213.84,7
+247,2026-01-30,East,Home Office,Office Supplies,Paper,Lake Reneechester,3736.96,1219.87,3
+248,2025-05-04,North,Consumer,Furniture,Sofa,Danielsstad,3055.88,501.52,3
+249,2025-06-22,North,Home Office,Furniture,Desk,East Anthony,112.58,26.19,3
+250,2026-02-07,West,Consumer,Furniture,Sofa,Lake Donnafurt,1638.77,88.94,9
+251,2024-12-31,North,Consumer,Furniture,Sofa,Shannonburgh,2994.92,737.12,6
+252,2024-06-07,South,Home Office,Technology,Monitor,New Andreafurt,838.8,7.09,5
+253,2025-02-28,North,Corporate,Furniture,Desk,Eatonton,3792.52,52.24,6
+254,2024-10-31,North,Corporate,Technology,Mouse,Fraziermouth,1493.61,463.69,2
+255,2025-10-26,South,Home Office,Furniture,Sofa,Robertchester,2451.76,-219.34,8
+256,2024-12-14,West,Corporate,Technology,Printer,New Josephtown,2134.6,543.83,3
+257,2026-01-02,North,Consumer,Office Supplies,Binder,Masseyfurt,1968.27,630.3,9
+258,2025-08-17,North,Home Office,Office Supplies,Binder,North Jessica,1416.0,83.71,4
+259,2025-05-30,West,Corporate,Office Supplies,Pen,Harrisland,4081.99,-193.33,2
+260,2026-02-13,East,Corporate,Technology,Printer,South Shannonville,1033.45,-76.75,10
+261,2026-05-02,South,Home Office,Furniture,Sofa,Port Melissa,3745.2,76.02,10
+262,2025-10-05,North,Home Office,Furniture,Chair,Smithside,603.68,37.03,4
+263,2024-08-24,East,Corporate,Technology,Printer,East Samuel,790.78,61.23,5
+264,2026-03-27,South,Corporate,Office Supplies,Pen,New Laurieberg,878.12,33.76,8
+265,2025-04-16,East,Consumer,Furniture,Bookcase,Mooreville,4890.72,1042.15,10
+266,2024-07-30,North,Home Office,Office Supplies,Storage Box,East Benjamin,2365.42,296.92,9
+267,2026-04-02,East,Corporate,Technology,Mouse,Marcshire,4738.95,34.76,2
+268,2026-03-27,West,Home Office,Office Supplies,Envelope,West Jacobtown,494.53,82.21,10
+269,2026-06-03,South,Corporate,Furniture,Bookcase,Port Jodi,218.53,0.65,4
+270,2026-03-24,West,Corporate,Office Supplies,Binder,East Whitneychester,1382.44,245.83,1
+271,2026-01-04,East,Consumer,Office Supplies,Paper,Port Kelly,4857.96,339.23,4
+272,2025-04-10,North,Corporate,Office Supplies,Binder,Cristianport,2902.4,-135.62,3
+273,2025-09-15,West,Consumer,Technology,Laptop,Brownmouth,466.21,136.12,10
+274,2024-12-15,West,Corporate,Furniture,Bookcase,West Danielleport,477.09,100.4,2
+275,2024-07-11,North,Corporate,Technology,Mouse,South Nataliefurt,2327.97,3.91,3
+276,2025-03-31,East,Home Office,Technology,Keyboard,South Daniel,3605.2,550.0,2
+277,2025-09-19,West,Home Office,Technology,Printer,Evansside,4630.51,44.41,6
+278,2025-09-05,East,Consumer,Technology,Monitor,South Brianshire,4876.8,-305.27,3
+279,2024-09-28,West,Consumer,Office Supplies,Envelope,Nelsonbury,133.96,22.32,6
+280,2025-07-02,East,Home Office,Technology,Mouse,Ashleybury,1734.83,19.2,3
+281,2025-08-20,North,Home Office,Office Supplies,Storage Box,New Tracy,3908.99,605.27,10
+282,2024-11-15,West,Home Office,Technology,Printer,Amberchester,616.61,196.97,4
+283,2025-08-08,West,Consumer,Furniture,Sofa,North Cynthia,2967.75,620.12,5
+284,2026-03-12,North,Corporate,Office Supplies,Storage Box,Ellisbury,2754.48,-269.64,8
+285,2025-06-02,North,Home Office,Furniture,Chair,Martinhaven,4638.83,1379.12,5
+286,2025-09-03,South,Corporate,Furniture,Table,Reedburgh,824.45,137.46,10
+287,2025-11-10,North,Home Office,Furniture,Table,Flemingberg,4614.08,327.67,10
+288,2025-08-27,North,Home Office,Technology,Monitor,Daltonland,4472.21,1089.1,4
+289,2025-11-07,North,Consumer,Technology,Keyboard,Leebury,3187.57,705.46,3
+290,2025-04-10,West,Corporate,Office Supplies,Paper,Lake Hannahtown,1537.28,528.53,9
+291,2024-12-01,North,Home Office,Furniture,Table,South Sandra,2749.44,-142.95,8
+292,2026-02-25,West,Home Office,Office Supplies,Binder,Lake Heiditon,1356.41,112.36,3
+293,2026-03-05,South,Corporate,Office Supplies,Envelope,Port Ronniefort,4723.7,353.33,5
+294,2024-11-21,North,Consumer,Office Supplies,Paper,Smithtown,4002.13,-6.03,10
+295,2026-05-09,South,Corporate,Technology,Monitor,South Kristinechester,157.14,7.26,7
+296,2024-12-28,West,Consumer,Technology,Mouse,West Timothy,4486.62,781.85,10
+297,2025-09-27,East,Consumer,Office Supplies,Storage Box,Cookstad,4565.96,1181.39,6
+298,2026-02-21,South,Home Office,Office Supplies,Envelope,New Justinland,1551.67,291.14,5
+299,2026-04-08,East,Home Office,Furniture,Desk,South Josephhaven,819.47,164.95,10
+300,2024-07-07,West,Corporate,Technology,Monitor,New Kathymouth,702.9,-23.37,3
+301,2025-07-27,North,Corporate,Office Supplies,Storage Box,Francisport,2061.89,622.27,7
+302,2026-01-02,South,Corporate,Office Supplies,Binder,Lake Jonathanside,4418.47,1212.25,7
+303,2026-03-09,East,Corporate,Office Supplies,Pen,Port Justinside,3891.84,790.52,3
+304,2026-03-23,South,Home Office,Technology,Mouse,North Hannah,2821.33,363.01,7
+305,2026-01-01,North,Corporate,Technology,Keyboard,North Nicole,1931.8,281.68,10
+306,2024-11-30,South,Consumer,Technology,Laptop,North Susan,2289.47,-13.58,7
+307,2025-06-01,North,Home Office,Technology,Mouse,North Melissatown,3601.61,521.67,5
+308,2025-03-11,North,Corporate,Office Supplies,Storage Box,Port David,1414.11,-136.0,5
+309,2024-11-25,East,Home Office,Furniture,Desk,South Joshuatown,649.7,216.97,4
+310,2026-02-21,West,Consumer,Technology,Laptop,New Andrew,1193.09,341.55,6
+311,2025-07-04,North,Consumer,Technology,Printer,New Savannah,658.29,-39.14,4
+312,2026-03-25,South,Corporate,Furniture,Table,West Andrewburgh,2604.81,907.05,1
+313,2024-06-06,North,Consumer,Technology,Laptop,Melendezland,141.47,-6.6,1
+314,2025-01-21,South,Consumer,Office Supplies,Storage Box,Brettland,4893.41,519.88,9
+315,2025-11-17,South,Corporate,Office Supplies,Storage Box,Welchshire,4603.84,1441.61,2
+316,2025-12-15,West,Consumer,Technology,Monitor,Michelleport,4600.03,-415.45,3
+317,2024-08-06,East,Consumer,Office Supplies,Storage Box,Johnsonton,1662.39,547.86,3
+318,2025-07-28,West,Consumer,Office Supplies,Storage Box,Baldwinfort,3811.23,456.24,5
+319,2024-06-25,East,Corporate,Furniture,Sofa,Alyssastad,4980.75,162.12,6
+320,2025-12-24,East,Home Office,Technology,Keyboard,Reneemouth,2474.49,537.78,5
+321,2025-08-02,East,Corporate,Furniture,Bookcase,Lake Garyshire,1576.14,548.58,1
+322,2026-03-07,North,Corporate,Furniture,Chair,Lake Patrickhaven,3693.47,1046.89,9
+323,2024-09-09,East,Corporate,Furniture,Desk,Port Ryanstad,4695.53,87.98,4
+324,2025-10-21,West,Home Office,Office Supplies,Storage Box,East Jennifer,3669.01,1243.79,4
+325,2025-06-05,West,Corporate,Furniture,Chair,South Christineview,3910.51,1147.65,4
+326,2024-12-02,West,Home Office,Technology,Mouse,Kellyview,1091.9,257.37,10
+327,2025-07-28,South,Home Office,Furniture,Sofa,Lake Michael,3599.98,519.36,1
+328,2025-01-22,West,Corporate,Technology,Printer,Turnerborough,2008.24,-6.41,10
+329,2026-04-22,East,Home Office,Technology,Monitor,New Nicholasberg,4615.49,1255.41,6
+330,2024-12-02,South,Home Office,Furniture,Sofa,Meyerburgh,4910.16,1535.62,3
+331,2026-03-01,North,Corporate,Technology,Keyboard,South Robertmouth,608.18,184.46,10
+332,2024-09-14,West,Corporate,Technology,Mouse,North William,598.38,183.96,4
+333,2024-11-04,West,Consumer,Office Supplies,Storage Box,East Willie,891.49,-56.43,2
+334,2025-05-23,West,Corporate,Technology,Monitor,New Joshua,244.28,35.07,6
+335,2025-06-03,East,Home Office,Technology,Laptop,Lake Ashleytown,264.72,36.87,4
+336,2025-01-04,East,Consumer,Office Supplies,Binder,Pittmanville,2369.29,-81.4,9
+337,2025-12-23,West,Consumer,Office Supplies,Binder,Lake Jessica,4420.67,581.02,6
+338,2024-08-27,East,Corporate,Furniture,Chair,North Mark,1847.86,582.97,5
+339,2025-02-24,South,Home Office,Furniture,Bookcase,New Shannonborough,4028.29,1252.86,9
+340,2024-12-26,South,Home Office,Office Supplies,Envelope,West Lisaville,612.72,51.34,5
+341,2025-07-22,North,Corporate,Technology,Printer,West Kathleenchester,4108.36,409.06,4
+342,2026-01-10,West,Home Office,Furniture,Desk,Port Darrenport,3797.35,1098.82,9
+343,2025-02-24,West,Consumer,Technology,Mouse,Port Sarah,3315.03,998.05,1
+344,2026-03-18,East,Corporate,Technology,Mouse,New Leslieshire,3963.22,1029.63,10
+345,2025-06-05,West,Corporate,Furniture,Bookcase,North Franklinburgh,988.37,292.46,6
+346,2025-01-01,East,Corporate,Furniture,Table,West Matthew,4968.66,1217.82,4
+347,2025-08-19,North,Consumer,Furniture,Bookcase,North Kristin,1287.23,156.18,3
+348,2024-07-03,South,Consumer,Furniture,Sofa,Port Thomasland,4966.35,954.3,2
+349,2025-06-26,West,Home Office,Technology,Laptop,West Robert,770.69,134.73,8
+350,2024-12-12,East,Consumer,Technology,Mouse,West Melissamouth,527.33,74.67,3
+351,2026-05-18,East,Corporate,Technology,Printer,Randyfort,614.89,171.83,7
+352,2026-02-10,East,Consumer,Technology,Laptop,North Shawn,1441.32,267.54,8
+353,2025-11-22,North,Consumer,Furniture,Table,South Jeremy,3868.93,1258.54,10
+354,2026-04-11,South,Corporate,Technology,Laptop,New Nicholasville,684.26,104.62,1
+355,2024-09-04,East,Corporate,Furniture,Desk,East Sandra,423.0,146.19,1
+356,2025-11-27,East,Home Office,Furniture,Table,Michelleberg,4838.84,-423.54,3
+357,2024-12-12,West,Consumer,Furniture,Chair,West Christina,1881.68,406.96,4
+358,2025-09-04,East,Consumer,Furniture,Desk,North Richard,834.52,-50.38,2
+359,2024-11-09,South,Consumer,Office Supplies,Binder,Brandonshire,162.89,47.38,10
+360,2025-11-06,West,Corporate,Office Supplies,Envelope,Yorkfort,2344.77,307.91,6
+361,2024-10-26,West,Corporate,Technology,Mouse,Lake Autumnmouth,2804.54,-35.29,1
+362,2025-06-27,North,Consumer,Technology,Monitor,Jamestown,2025.0,707.67,4
+363,2026-04-30,North,Consumer,Office Supplies,Envelope,Soniaport,3222.65,379.14,10
+364,2025-11-20,North,Consumer,Office Supplies,Storage Box,Daltonland,4178.88,680.66,4
+365,2026-04-13,South,Consumer,Technology,Mouse,Robertfort,4832.16,736.44,8
+366,2025-10-06,North,Consumer,Office Supplies,Pen,Woodchester,4323.43,843.02,8
+367,2025-12-19,West,Home Office,Furniture,Sofa,North Danielberg,4163.11,345.07,3
+368,2024-07-11,East,Corporate,Technology,Mouse,Sherryfort,3453.29,1176.98,8
+369,2025-06-24,East,Corporate,Office Supplies,Binder,North Eric,3105.35,758.98,5
+370,2025-01-25,West,Corporate,Furniture,Sofa,Port Jeffview,872.93,83.18,5
+371,2025-09-29,East,Consumer,Technology,Keyboard,South Catherine,692.64,65.03,2
+372,2024-08-27,North,Home Office,Furniture,Desk,New Michael,4807.66,916.26,5
+373,2024-09-16,North,Consumer,Furniture,Table,Paulland,294.59,25.42,5
+374,2025-11-30,East,Corporate,Technology,Monitor,Gavinside,1997.03,232.33,6
+375,2024-06-27,West,Consumer,Furniture,Table,Lake Alexa,3646.17,-292.42,8
+376,2026-06-05,East,Consumer,Furniture,Chair,Angelton,2816.39,-109.93,8
+377,2025-08-26,West,Home Office,Furniture,Sofa,Nicholsonmouth,2255.05,707.5,3
+378,2025-06-14,West,Corporate,Furniture,Sofa,New Jessicaland,2921.53,797.86,9
+379,2026-04-23,East,Home Office,Technology,Keyboard,North Brandybury,3203.86,823.8,8
+380,2026-04-06,West,Consumer,Technology,Monitor,Lake Sean,1751.87,49.95,4
+381,2025-07-06,South,Home Office,Technology,Printer,Jenniferview,4167.47,-334.39,1
+382,2025-07-17,North,Consumer,Technology,Monitor,Hancockmouth,1486.05,404.01,5
+383,2024-09-27,South,Consumer,Office Supplies,Storage Box,Alanview,3926.86,1347.79,9
+384,2025-09-24,North,Home Office,Furniture,Sofa,East Elizabethfort,260.17,8.75,6
+385,2025-04-05,East,Home Office,Technology,Printer,South Robertland,2357.82,741.29,10
+386,2025-08-02,North,Corporate,Office Supplies,Pen,Katieborough,989.17,238.43,8
+387,2025-02-28,North,Home Office,Furniture,Chair,Lewiston,4066.68,1300.79,1
+388,2026-05-12,South,Home Office,Technology,Laptop,Port Christopher,1410.59,-128.51,9
+389,2024-12-18,West,Home Office,Technology,Monitor,North Ryan,2419.92,732.66,7
+390,2025-08-16,North,Consumer,Technology,Keyboard,Bobbymouth,3222.9,428.53,10
+391,2024-12-25,East,Home Office,Furniture,Bookcase,Amyville,4648.48,474.54,1
+392,2025-05-23,South,Consumer,Technology,Monitor,South Angela,200.37,63.91,7
+393,2025-12-10,South,Corporate,Office Supplies,Binder,South Rachelstad,3375.47,655.75,10
+394,2024-06-19,South,Home Office,Office Supplies,Pen,New Morganberg,1512.3,-109.75,6
+395,2025-12-06,West,Home Office,Office Supplies,Storage Box,Santiagostad,634.58,-14.51,5
+396,2026-04-27,South,Corporate,Furniture,Desk,South Jasmineland,3387.77,1144.92,3
+397,2025-01-02,East,Home Office,Office Supplies,Storage Box,East Terrancestad,641.91,151.62,4
+398,2024-08-12,West,Consumer,Office Supplies,Pen,New David,1837.59,52.18,1
+399,2025-05-22,North,Home Office,Office Supplies,Binder,Brandonland,2604.6,775.58,8
+400,2025-07-21,East,Consumer,Furniture,Bookcase,Josephborough,396.94,-35.37,7
+401,2025-06-19,South,Consumer,Furniture,Desk,New Crystal,1362.86,-93.68,6
+402,2024-06-22,West,Corporate,Technology,Printer,Darrellmouth,3195.03,239.32,10
+403,2024-08-26,West,Home Office,Furniture,Table,Veronicaton,2337.26,541.32,6
+404,2025-12-28,South,Corporate,Furniture,Sofa,Gregorybury,2395.88,484.41,10
+405,2025-10-11,West,Home Office,Furniture,Chair,North Michael,4658.21,-93.88,1
+406,2026-03-22,North,Corporate,Furniture,Table,New Henryfurt,225.52,21.68,2
+407,2026-02-08,South,Corporate,Technology,Monitor,New Melinda,4592.31,617.51,9
+408,2024-10-05,East,Home Office,Office Supplies,Binder,West Rebeccatown,655.85,19.13,9
+409,2024-11-29,South,Corporate,Furniture,Desk,Port Eddiestad,3394.34,647.24,1
+410,2024-09-30,South,Corporate,Office Supplies,Storage Box,Abbottland,3945.16,862.43,8
+411,2024-09-20,West,Home Office,Furniture,Bookcase,Barnesfurt,379.95,-16.58,4
+412,2025-12-12,West,Consumer,Technology,Laptop,Hoffmanport,3341.92,38.65,5
+413,2025-08-29,West,Consumer,Technology,Keyboard,South Jodyview,1865.89,40.68,10
+414,2024-12-06,North,Home Office,Office Supplies,Binder,South Alberthaven,2205.01,188.77,10
+415,2026-03-30,East,Home Office,Technology,Printer,North Dianashire,384.02,125.86,8
+416,2026-02-20,South,Consumer,Office Supplies,Storage Box,Lake Kelly,2944.44,-249.97,1
+417,2025-09-02,West,Consumer,Furniture,Chair,South Amyside,1183.5,284.29,10
+418,2026-03-19,West,Corporate,Furniture,Sofa,West Jacobport,3510.02,874.43,4
+419,2026-05-28,North,Corporate,Office Supplies,Envelope,New Keithhaven,1857.03,572.99,2
+420,2025-02-13,East,Corporate,Furniture,Sofa,New Joshua,2250.24,95.26,1
+421,2025-07-21,East,Home Office,Furniture,Chair,South Melissastad,1654.67,30.19,10
+422,2025-08-23,North,Corporate,Office Supplies,Binder,Parrishport,824.08,255.74,8
+423,2025-06-14,West,Corporate,Furniture,Sofa,Danamouth,4365.13,1193.12,10
+424,2025-01-11,East,Home Office,Office Supplies,Pen,Port Christopherberg,4085.73,49.88,8
+425,2025-06-13,West,Home Office,Furniture,Chair,Lake Nathanielshire,4171.8,38.06,2
+426,2026-03-09,North,Corporate,Furniture,Sofa,West Kyle,4291.2,36.28,10
+427,2025-08-26,South,Home Office,Furniture,Table,Johnsonmouth,1109.71,-91.05,9
+428,2024-08-22,South,Home Office,Technology,Laptop,Markberg,2515.38,877.98,8
+429,2026-04-28,East,Corporate,Furniture,Desk,Haynesmouth,4749.57,65.56,1
+430,2025-07-19,West,Consumer,Office Supplies,Envelope,West Carrie,2911.0,199.48,4
+431,2025-03-14,West,Corporate,Furniture,Table,Antoniochester,2534.69,549.55,3
+432,2025-11-07,East,Consumer,Furniture,Sofa,Frederickbury,1701.92,-72.68,10
+433,2025-04-23,South,Home Office,Technology,Mouse,New Jacob,3381.6,846.4,9
+434,2024-07-18,West,Corporate,Technology,Keyboard,New Joelland,2917.29,920.1,1
+435,2025-02-21,South,Consumer,Office Supplies,Paper,Port Robert,4702.31,448.89,8
+436,2025-06-17,North,Consumer,Furniture,Bookcase,Nelsonmouth,4988.18,1544.72,1
+437,2024-12-22,East,Home Office,Furniture,Bookcase,Robertville,1610.51,374.61,3
+438,2025-01-30,West,Corporate,Technology,Laptop,East Kimberlyburgh,2542.8,766.4,5
+439,2024-06-08,West,Consumer,Furniture,Bookcase,Wilkersonside,3159.56,355.34,2
+440,2024-09-06,North,Home Office,Furniture,Sofa,West Pamela,2062.36,713.69,10
+441,2025-04-29,East,Corporate,Furniture,Table,New Darryl,2549.88,550.54,10
+442,2026-02-08,East,Corporate,Furniture,Bookcase,Courtneyton,974.02,-41.8,1
+443,2024-08-12,West,Consumer,Office Supplies,Pen,Howardside,1398.22,393.49,8
+444,2024-09-28,North,Consumer,Technology,Laptop,East Kristin,3344.25,968.26,8
+445,2026-04-14,East,Corporate,Furniture,Chair,East Ericshire,3065.52,1072.74,3
+446,2025-01-09,East,Home Office,Office Supplies,Pen,Calebtown,4503.41,1350.34,4
+447,2025-01-31,South,Consumer,Furniture,Table,Gallagherfort,1870.74,185.95,5
+448,2025-09-25,South,Corporate,Technology,Mouse,South Cassidy,3831.72,-303.96,9
+449,2025-11-20,North,Corporate,Furniture,Sofa,Drakechester,4325.54,1431.51,6
+450,2026-04-30,South,Home Office,Technology,Laptop,Lake Ann,3159.58,-53.25,6
+451,2025-11-24,West,Home Office,Technology,Keyboard,Garciastad,840.2,-36.37,4
+452,2025-03-03,East,Consumer,Furniture,Sofa,East Danatown,1904.33,520.69,3
+453,2025-08-07,East,Consumer,Office Supplies,Storage Box,Ricefort,1545.63,382.6,8
+454,2024-06-24,North,Consumer,Furniture,Sofa,Lake Kevin,842.68,5.69,8
+455,2025-03-30,West,Consumer,Furniture,Table,Williamsside,387.3,98.84,3
+456,2025-04-09,South,Corporate,Furniture,Sofa,Lake Wendy,2374.78,166.94,1
+457,2024-09-23,South,Corporate,Furniture,Bookcase,Stewartberg,730.4,-23.17,1
+458,2025-11-14,South,Home Office,Furniture,Sofa,Lucasstad,4482.58,-212.35,2
+459,2024-06-13,West,Home Office,Technology,Monitor,Melissaside,3222.7,299.33,10
+460,2024-06-08,West,Consumer,Furniture,Table,Lake Misty,4399.17,1279.39,10
+461,2024-07-25,West,Consumer,Technology,Mouse,Travischester,2145.56,236.31,8
+462,2024-12-13,East,Consumer,Office Supplies,Pen,West Williamshire,4394.89,465.52,9
+463,2025-01-01,West,Home Office,Technology,Monitor,South Genemouth,839.13,246.39,4
+464,2025-08-28,West,Home Office,Office Supplies,Pen,East Rachelbury,4054.98,-354.82,9
+465,2026-01-06,East,Corporate,Technology,Mouse,South Ryanmouth,2274.58,789.27,1
+466,2025-05-19,West,Consumer,Furniture,Desk,South Thomasborough,3182.28,318.77,1
+467,2024-06-23,North,Home Office,Office Supplies,Binder,Scottfort,4685.28,735.66,9
+468,2026-04-12,North,Home Office,Technology,Mouse,South Toddfurt,644.24,5.06,5
+469,2026-05-03,West,Home Office,Technology,Mouse,Murphytown,1788.87,522.44,10
+470,2024-12-24,North,Home Office,Technology,Monitor,Woodburgh,1015.02,19.0,5
+471,2026-05-01,East,Corporate,Furniture,Table,Lake Sharon,2795.65,160.54,9
+472,2026-02-26,South,Home Office,Furniture,Table,Laurenside,4230.56,585.57,6
+473,2025-01-16,East,Corporate,Furniture,Desk,East Michaelhaven,615.74,15.74,10
+474,2026-01-22,West,Corporate,Office Supplies,Binder,New Stevenfurt,4191.06,509.34,3
+475,2024-10-15,East,Consumer,Furniture,Desk,Jenkinsmouth,1051.72,48.88,9
+476,2026-05-24,South,Consumer,Technology,Laptop,New Paulstad,1601.71,552.52,4
+477,2024-08-20,West,Consumer,Technology,Printer,Johnhaven,4015.09,239.79,1
+478,2025-10-28,West,Corporate,Technology,Monitor,Lake Tammy,530.36,71.2,8
+479,2025-08-31,East,Consumer,Furniture,Desk,Port Jackburgh,2346.61,267.92,4
+480,2025-03-18,South,Corporate,Office Supplies,Paper,Lake Patricia,1225.88,283.1,8
+481,2024-07-23,South,Home Office,Office Supplies,Storage Box,Josephbury,3551.25,317.1,6
+482,2026-03-30,East,Home Office,Furniture,Chair,Port Cynthia,1241.01,342.18,7
+483,2024-08-04,West,Corporate,Office Supplies,Envelope,West Brent,4486.48,303.34,1
+484,2025-05-24,West,Home Office,Technology,Keyboard,New Kathrynchester,4596.48,-210.78,9
+485,2026-01-04,West,Home Office,Technology,Printer,Port Rachel,975.36,127.75,10
+486,2025-01-09,North,Consumer,Furniture,Bookcase,Natalieburgh,4144.94,1412.61,8
+487,2024-07-27,North,Home Office,Furniture,Bookcase,South Paulaland,3688.99,1167.49,8
+488,2025-06-05,South,Consumer,Furniture,Sofa,Lake Samuelmouth,2729.75,362.15,8
+489,2026-03-17,West,Home Office,Furniture,Table,Reginamouth,4002.88,762.1,8
+490,2026-04-16,South,Home Office,Furniture,Table,Bergerland,4304.13,323.49,1
+491,2026-01-30,South,Consumer,Office Supplies,Storage Box,East Stacy,2293.21,736.79,8
+492,2025-07-12,South,Corporate,Office Supplies,Binder,Port Kevin,2304.18,468.08,10
+493,2026-02-09,South,Home Office,Technology,Laptop,South Ralph,2020.76,432.99,2
+494,2024-12-14,West,Consumer,Office Supplies,Binder,Reynoldsville,3821.31,656.25,7
+495,2024-09-10,North,Corporate,Furniture,Bookcase,East Johnberg,3011.6,511.85,3
+496,2025-05-23,East,Corporate,Furniture,Desk,New Traceybury,1461.85,398.1,4
+497,2024-12-18,South,Consumer,Furniture,Bookcase,South David,1962.54,222.86,6
+498,2024-11-06,East,Consumer,Technology,Keyboard,Macdonaldburgh,3506.78,390.86,1
+499,2025-10-18,North,Corporate,Furniture,Sofa,Arroyoville,4050.38,1238.75,4
+500,2025-08-01,West,Home Office,Furniture,Bookcase,Port Victor,1458.13,-92.49,2
